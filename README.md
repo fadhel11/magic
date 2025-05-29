@@ -1,0 +1,2 @@
+# magic
+idea + code = magic 
